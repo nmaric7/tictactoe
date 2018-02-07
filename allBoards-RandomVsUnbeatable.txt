@@ -1,0 +1,17 @@
+ XO O XOX
+XOXOX OXO
+  X X O  
+  O O X  
+OXO O XOX
+XOX X OXO
+  O O X X
+  X X O O
+    X O  
+    O    
+    X    
+    O X  
+OXOXO XOX
+         
+  O O XOX
+  X X OXO
+ OX X OXO

@@ -1,0 +1,2 @@
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers resolveSbtClassifiers" ;*/*:dumpStructureTo C:/Users/Nikica/AppData/Local/Temp/sbt-structure.xml; session clear-all
+all {file:/C:/learning/coursera/machine-learning/tictactoe/}tictactoe/products {file:/C:/learning/coursera/machine-learning/tictactoe/}tictactoe/test:products

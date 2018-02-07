@@ -1,0 +1,3774 @@
+O  X  XOX
+XXX OO XO
+OXOXO XXO
+  X O O  
+    O OX 
+XOO OXXOX
+OO XXXXOO
+ XO    O 
+ OOX  XXO
+ O OXOXXO
+ X   O OX
+   OX   O
+XXO OOXXO
+XX  OXO  
+XOX     O
+OX X XOOX
+   X XO  
+OOXO OXX 
+O OX XXO 
+  O OX   
+XOX XOOO 
+ OXX X OO
+OXOXOX O 
+OXX XO XO
+ OOXOXXOX
+ XO   O X
+ OOOXOXXX
+X OOOXX O
+  XO O   
+ OO OXXX 
+O X  OX  
+  X  X  O
+ OOO XXX 
+OO XXO  X
+  OXXXOXO
+  OOX    
+O XO X  X
+X   OX OX
+  OX XO O
+O OXXXOXO
+X  OXOOX 
+ OX  XO X
+OX       
+OX XXOO O
+X  X    O
+ OXOXXXO 
+ X  OO  X
+X XO     
+XXOOXOX  
+  X   XOO
+O X   X O
+ X   OX O
+ X XXO OO
+O X XOO X
+XOXOXOXOX
+ X OOX  O
+ OXXXOOOX
+ OX     O
+XX OOX XO
+OX   X OO
+X  XXOO  
+XO X XO O
+O OXX OXO
+OX XOO X 
+OX X OOOX
+X XOXO OX
+  O  XX  
+  XOOX O 
+  XOO X X
+ XO OX X 
+  XOX XOO
+ XX   OO 
+O    XOX 
+XOOO OXXX
+    XO  O
+     X  O
+OO XOX XO
+OXXOXXXOO
+OOXXOXOXO
+XXO O O  
+ XXX   OO
+ OX OXX  
+  OX OXXO
+XO X O OX
+OOX X   O
+     XOO 
+XO X X OO
+XOO  OX X
+OX     OX
+X O    X 
+OXXXOO   
+O   XOO X
+X XX OOOO
+X OOXX XO
+XXOO XXO 
+XO OOX XX
+X XOXOOX 
+XO   OXO 
+O O   XXO
+OOX O XXX
+XO  XOXO 
+XXX  O  O
+ O X   X 
+XX  OX OO
+ XX O  OX
+ XO X OOX
+X  X O O 
+XX OX O O
+ O OX    
+ X O X O 
+O OXX X O
+OO OOX XX
+XO X XO  
+  XO X   
+X X OOXOX
+ OX O X  
+OX     O 
+ O O  XX 
+XO O XX O
+ OXOOXOXX
+O X X OXO
+XOO XXO O
+XOX   O X
+   X     
+X O O  OX
+OX  X OOX
+XOOX   OX
+X XOO XOX
+  XOX   O
+  O XX OX
+O  X   XO
+OXXO XX O
+X O   XXO
+ O OXOXX 
+XXO   O X
+XOXO OXXO
+XO  XX OO
+   X  OX 
+O OX   X 
+    OO X 
+XO O X OX
+ X  O XXO
+XX   O OX
+ XOXO  XO
+  O  XX O
+OXXXOOOX 
+X   X  OO
+ O   OX  
+ XX  O OX
+ OXOOX   
+ XOOXXO O
+    X  O 
+X O  OO X
+O  XX   O
+  XO OOXX
+OO  OXOXX
+XOO O XXO
+X  OXX OO
+XO X OOOX
+  XO    O
+ X O  XOX
+ O OO XXX
+XOOOXXOXX
+  XXO    
+OXOXOO  X
+X      O 
+OOXX  OXX
+X OOX  O 
+ O   X O 
+     X O 
+  XO   XO
+OX X O OX
+OOOX XOXX
+OXOXOO X 
+XOOO XXXO
+   X  OXO
+ XOOO XXO
+XOX O  XO
+OXX OOX  
+X O O   X
+ XXX OOOX
+X OOXX O 
+   OXO X 
+X  O  X O
+O  XOX   
+  O  X OX
+ O     X 
+XX   OXO 
+X OX  O  
+X  O   O 
+  OOOXX X
+XO XXOO O
+OX  X O  
+   OOXX  
+ O XOX  X
+OXOXOOX X
+ X O   XO
+  XXO OOX
+ X     OX
+OX XOXOOX
+  XOO   X
+O  X  XXO
+OXXOX O  
+O  OX OX 
+OXO  X O 
+OO  XXXXO
+ XX O O O
+ OX XXO O
+OXXO OX X
+X OXO    
+XO     XO
+OXO    X 
+XX XO O  
+XXO  OXO 
+      OX 
+OX   X   
+XOXXXOOOO
+OX      O
+ X X    O
+    X X O
+  OXOOXXO
+O X XOO  
+OXX XOOOX
+ O  X XXO
+   X O  X
+XOOOX XX 
+OXXO OX O
+OX OX    
+ XXO OO X
+OXOXXO O 
+ O O  X  
+   OX   X
+ OOOX XOX
+X XXOOX O
+X X    O 
+X OXX O  
+XX XOXOO 
+OOX XOXXO
+X  X O OO
+X   OO X 
+ O XXOO  
+    OOX X
+XOX XO O 
+    XX O 
+XO O  X X
+O   X O X
+O O XOOXX
+OXXOOX  O
+X     OXO
+X OXXOO X
+  XX   O 
+XX OO OXO
+X O  XO  
+   OO X X
+   XO X  
+ XO  X  O
+XO OX X O
+ OXO OXX 
+OX OX  OX
+XOOOXO XX
+O XXO  OX
+  OXX    
+ O  O XXO
+OOOX XXXO
+  X XOOXO
+   XOXO X
+X O  X XO
+XO XOOOXX
+OXXX XOO 
+X OXXO OO
+XOO O OXX
+XOOX O   
+ XO  X   
+ OOX  O X
+ O OOXX X
+XX OOXXO 
+  OXX O  
+ O  X OX 
+ XO XXOOO
+XX X   OO
+  OOX  XX
+ OXX     
+O  X XXOO
+OX  OXO X
+XXOXOXXOO
+O OXXXXOO
+  XXOX O 
+XOOXO  OX
+ O OXXOX 
+X XOOX O 
+OXO XOX  
+ OXOX OXX
+XX OO X  
+OO    XX 
+XO     O 
+X X  XO O
+XOXOXXOXO
+ XOXOO XX
+OXXX XOOO
+OX   XOX 
+ O  OXXO 
+OXOO XO X
+OX  OXX  
+X OXOOX  
+OXO XOXX 
+OXX   O O
+ OOXXX XO
+X      OO
+X O  O  X
+XXXO XO O
+OXX  OO X
+OOXO  XOX
+XO   O X 
+OO OXO XX
+ OO OX X 
+OXO XX XO
+OXOOOX XX
+XOO XXOXO
+OOOX XX O
+OXOX  X  
+   OX  X 
+OOXX   XO
+O  OXO X 
+  O  O X 
+OOOXOXX  
+O XXO XOX
+OX  XXOO 
+OXX OXOXO
+   OX O  
+X O    XO
+XO OXOX  
+O   OX  X
+ XXOOXXO 
+ XOXO    
+O OO XOXX
+ XO O O X
+OOX OXOXX
+X O X X O
+OXOX XXO 
+ OXOX    
+ XOO XO X
+ XOO O  X
+O X  O  X
+XXXOXOXOO
+X  X  OO 
+    XOO  
+OXOXXOOX 
+OX    XO 
+XXOOOOXOX
+XOX  OX O
+     O XO
+  XXOO O 
+OXX OX OO
+OO X  XO 
+X XXOO   
+ OOXXOOX 
+OOX O  XX
+XO XXXO O
+X OOOXXXO
+  OOXOX  
+OO OXXXO 
+  OXXOOOX
+OO XX XOX
+ OXX O   
+X XO XOO 
+X O OXOOX
+ OX    O 
+ XXX O  O
+XXOXXOOO 
+   XOXXO 
+XOX  O XO
+ OXO OX X
+O  XO OXX
+X  O X O 
+ X XO OXO
+XOO O   X
+ XOX OXOO
+X O  XO O
+OXXXXO O 
+ XOXO XOO
+ X  OX   
+XOO O  XX
+ OXOXXOXO
+OX XX OXO
+ O X OO X
+ XXXOXOO 
+ OOO   XX
+ OXX X O 
+    X OO 
+XO OX  XO
+ O X  X  
+ OXOXXOO 
+X OXO  OX
+OXOXXO X 
+XOXX OOO 
+O  XOX  X
+O OOOX XX
+OXO  X OX
+X OX OOX 
+O OXX    
+ OOXXOOXX
+O  X  OXX
+   OXXXOO
+OX XX OOX
+XXOOX OOX
+OO XOXOXX
+XXOO   O 
+ X  OX  O
+O  X XO O
+XOO OOXX 
+X OOOXXOX
+OOXXO X  
+OX O XXXO
+OXX OXOX 
+ X OO   X
+ OOXXXOXO
+XOX   O  
+XOX OX XO
+ X  OO XO
+X    O  X
+OOXXXO XO
+ X  O  XO
+XOXOXX O 
+OXX O  X 
+X OXOO   
+XO X     
+  O  X  X
+ O      X
+OOXOX O X
+XOOO  XX 
+ X  O   O
+ O XX  OO
+OOX XOOXX
+XXX OOOXO
+OXXOOOXXO
+OXO OXXOX
+XOO  OXXO
+XO  XOOXX
+  XXXO O 
+   O X O 
+XXX O O O
+     O  X
+   O   X 
+OXOX XXOO
+ X  OXOO 
+ O O X  X
+  OO XXXO
+XX OXOOX 
+ O  OXX  
+  OXXXO O
+ O X     
+X  OOX   
+  O X   O
+XOXO XO  
+        O
+OOX OXOX 
+OX     X 
+X OXO O  
+X  OO XX 
+ XX  O   
+OX  X   O
+XO X  O O
+X    OOXX
+OX XO  O 
+XXO OOOXX
+OXO OX XX
+XOXOOXOXO
+ OXX OOOX
+O  O OX X
+X O XX O 
+X   XOOO 
+ O  OX   
+OO X  XOX
+O  XXXXOO
+  XX OOOX
+XOXO XX O
+X  OXXOO 
+OX  OXX O
+X  O XXO 
+ XX  OO O
+ OOX  X O
+  O X O  
+X   X XOO
+OXX  OOXX
+ O  XO XX
+ OOX XOOX
+  O XX   
+OX OOO XX
+X  OX XOO
+ O  XO  X
+   XX OO 
+OX XXO   
+OX XOOOXX
+XXOO  OXX
+O     O X
+OX      X
+ O  X O X
+ OX XX  O
+O     OXX
+   X OO X
+ XX O O  
+ X  XO O 
+O    X OX
+XXOXOOOOX
+XX OX  OO
+ OX XOOXO
+OXOXO XO 
+O  X  OOX
+XXX OOO  
+O O   X  
+O   OX X 
+  OX  X O
+OX XOXOXO
+OO XXOOX 
+O X OX X 
+OOXXO OXX
+O XX  X O
+O XO    X
+XX   O O 
+XXOX  O  
+XXOO OOXX
+OOX  X  O
+ OX X XOO
+OX O X   
+O XX OXXO
+X XO X O 
+OO OXXXOX
+ XX O  O 
+XO O   X 
+XOX  XOO 
+ XXO OXO 
+  O  XOXO
+XO  XXOOO
+O OXOX XO
+  OO  X X
+   X  OOX
+OXOXOX  O
+ XX  O XO
+   XOXO  
+XXXXOO  O
+  XXOXOOX
+    O  OX
+O  XXO OX
+X  XO O  
+  X XOOO 
+ OXXX OO 
+  XX OX O
+ OX XOOOX
+    XO OX
+O  XO    
+X O XOXO 
+X X  OOX 
+  OXX   O
+X O  OXOX
+O OX XXOO
+XX XXOOOO
+X XOXO   
+   OOXOXX
+  X OO X 
+OX   O  X
+XX OOXXOO
+X O  X O 
+ X X   OO
+O OX    X
+OOXX OXXO
+XO  XXO  
+OX OXO   
+XO XO XXO
+OOXXXOXXO
+X   OOX  
+ O       
+ OX     X
+   OXXOO 
+O X XOXO 
+ X       
+XX  OOO X
+XO  OXX  
+OOXX OOX 
+XOO  XOX 
+O XO OX  
+O   XOXX 
+OX   XOOX
+X OXO OXO
+OOXOXOXX 
+XOXX OO  
+ O O  XXO
+  O  OXXO
+OO XO X  
+XXO O   O
+OXX O OX 
+OXX  XOOX
+XOXOX  O 
+OOXO OXXX
+OX O OX  
+O   X  O 
+ OO X XX 
+X XXOOO X
+OX  XO OX
+XX  O XO 
+OXX O O  
+   O  OXX
+X    O X 
+X OOXOX O
+X  XXOO O
+  XOOX  O
+X X  OOXO
+ OXOX X O
+ XX O   O
+ O X OOXX
+      OXO
+O XO X   
+OO    X X
+OXOXXOX  
+OXXXXO OO
+ XXO O X 
+  OXX  OO
+OX XXO OX
+XO   XX O
+OXO OXOX 
+OXX XOOXO
+OOOX X X 
+OO   X XX
+ X XOX OO
+O  OXXO  
+  X  OOOX
+XOOXO X X
+ XOO XOXX
+ OXOO XOX
+O XO XXOX
+ OOOOXXXX
+ OX O    
+O   OO XX
+X XO X  O
+OOXXO   X
+ OOX   X 
+  X  O  X
+ XO OX   
+ OXXOX OO
+  X X  O 
+X X XOOOX
+ OXOXX OO
+ O   XOOX
+XXO    O 
+O        
+OX XXOXOO
+OOXXX OOX
+XOOXXX  O
+O OX OOXX
+ XX  OXO 
+ X XO OOX
+ X  X OO 
+XOOOX X O
+ X   O O 
+  O  XOX 
+XOX  OOX 
+X OXO XO 
+ X OO XOX
+X   OOXOX
+XOO XOOX 
+  OXO XOX
+ X OO X  
+ O OXXOXX
+OXOXXO OX
+ XOOO  X 
+O  XOXO  
+X O X   O
+XOOOX X  
+O XXOX   
+ O     OX
+O X O OX 
+ O XO X  
+ XOX   XO
+OX X OO X
+X XOX  OO
+OOXX X  O
+X X O O  
+X O XXO O
+ OO     X
+OOXXO  X 
+O  X O  X
+ OXX  XOO
+ O   X OX
+XXXXO  OO
+ OXO  OX 
+X X OOOX 
+ O   OX X
+XOOXXO XO
+   XXO OO
+OOXOX X X
+ XXOXOOXO
+X OO  XXO
+OX  OX O 
+X X O  O 
+O   X O  
+  O  X XO
+XX O XO O
+X XOOO XO
+XOOOO XXX
+OX XOXOX 
+XO   O XO
+OXO O XX 
+XX     OO
+ OX XOX  
+X XXOOXO 
+     OX X
+ OO XX XO
+   O XX  
+O O  X   
+O O X XXO
+XOXOOO XX
+   O  OX 
+OOXX XXOO
+  X O    
+ X XOOOX 
+ O XXO OX
+XX  O  OO
+XOO   X  
+ OOXOXOX 
+OX  O X O
+  OOO  XX
+OX OOXX X
+   OX  OX
+O XOXOX  
+X  XOO  X
+ O XOX XO
+ OO XXX  
+   XO XOX
+XX O XOXO
+OX OX XOX
+   XX OXO
+  XOXO X 
+OX X   OX
+OXXOOXXO 
+X OOOOX X
+ O X O  X
+ O  XXO X
+OOXOX   X
+X XOXO XO
+O O XX  O
+OO  X XX 
+X XX OOXO
+ OOXXO X 
+XOXOOOX  
+ OOX OOXX
+XOXOOXX  
+  O O XXO
+ XXOOO  X
+    XX  O
+X XXO O  
+XX  OXOOO
+ XO X X O
+X O OXX  
+X     O  
+ XXOO OXX
+OOX XOO X
+XXO OOXOX
+XXOOOX   
+ X O XX O
+ OOX X XO
+  X  XO  
+XXOXOOOXO
+XOOXO   X
+XXO OO XO
+OXX OOOXX
+X XOX   O
+O X   O  
+XXOO XO  
+OX XXOOX 
+  X OOXX 
+ XXXOX OO
+   X  XO 
+O   X X  
+ X    XO 
+O XXOO   
+XOX  XO O
+X OXOO XO
+OX XXO OO
+X  X OO  
+ XX  OOXO
+ OX   X O
+ XOOOXXOX
+XX OX  O 
+OOOOXXXOX
+XO  OO X 
+X    OX O
+O  XOO X 
+   OOX X 
+OOX      
+    OXO  
+OX   XO X
+X O XOO X
+ O O XOXX
+OOXX XXO 
+ X OXX  O
+OO XOXO X
+ X  XOXOO
+OXXOO  XO
+X   OOX X
+ O  XX OX
+  OXXO O 
+ X O    X
+X XOXOO O
+OOXX OXOX
+ XXO OOOX
+ XOXXO   
+OXXOOX OX
+ X O XOXO
+OX  OOX X
+OXX  O   
+  XOO OX 
+OXXOO  X 
+  OXO  X 
+ XOOX OX 
+O OXXXO  
+XOX OOXX 
+X  OXOOXX
+X OX OOXO
+O OX XX  
+ X O OX O
+O X XOXOX
+  OOXX XO
+      XOX
+XXOO  O X
+OXXXO XOO
+  XOOXO  
+ O XX XOO
+O XX XOO 
+ OOOX XXO
+ X X O  O
+ O  X  OX
+OXO      
+XX   O OO
+ XXOO XOX
+  O OXX  
+ XX X O O
+ OOOXX X 
+XXOXXOO O
+XOXXOOOXO
+  XO O X 
+OOXOX OXX
+ O OXXO X
+O     X X
+ XOOXO OX
+ XXOO X  
+  X X OOX
+  OXXXO  
+ X  O  X 
+XOX OO X 
+X XXXO OO
+XXOOO  X 
+X OO    X
+XXOOOXXOO
+XO  OX  O
+  XOO  XX
+X XOOOOX 
+OOOXOXXXO
+X O XOOXO
+X  O X XO
+O X O    
+OXOXO XX 
+XOXOO  XX
+OXX X O O
+O XO O XX
+ OXXXXO O
+O O X  XX
+ X   OXO 
+OXOX    O
+OOXX   X 
+ XOXOX O 
+ X  XOOOX
+O   XO XO
+XOOXXO   
+OXXXOO O 
+   O X XO
+ OX O  X 
+OXO XX OO
+ X OO  XX
+XOOOXXXOO
+X O OXXO 
+XX OO  O 
+OXX O   O
+X     XOO
+OXOXOX  X
+XXXOX OO 
+O       X
+XX OXO  O
+X X  O  O
+  OX   XO
+XO     OX
+OXOX     
+OX   O OX
+X O O X  
+OXXOOX O 
+X   OO OX
+X OXO  XO
+XXOOOXX O
+   OOXXOX
+X XXOOOX 
+ XXOO OXO
+ XX X  OO
+X   XOX O
+ OX  OX X
+OXO OX   
+  XO  X O
+ O    XX 
+  O    OX
+X O O    
+  XOXOOXO
+OXOOXXXOX
+ XXOOXOXO
+ X  XOXO 
+O XX XOOO
+ O OOXXOX
+XOXO     
+ X  XO   
+ XO OO X 
+X OXOXOOX
+O  O OXXX
+O X XO O 
+OX XXO  O
+X   XOOX 
+O O     X
+  X X O  
+  X  O O 
+ X XO  XO
+OXXXOOOOX
+XOX  OOXO
+  OX OO X
+XXOX O OO
+ XOOOXO X
+ O OXXXO 
+ XO XOX  
+X  OXO  O
+OXX OOX X
+X O  XOO 
+  XOXO  X
+X  OO  X 
+XXOO   X 
+OXO O OXX
+O   OXXOX
+   O     
+O O  X  X
+OXX   XO 
+XXX OO OX
+O      OX
+X O   O  
+OXXXO OXO
+ OXO OOXX
+XXO  OOXX
+   O XXXO
+OO OXX  X
+O X OXXO 
+ XXOOO OX
+OO X  OXX
+  OO    X
+XXOOXO O 
+OOXX  O  
+ XO  O  X
+ O OXXXXO
+X XO O O 
+XOO     X
+OXXXOOOXX
+   X OOXO
+XOXOO XXO
+XOOO   X 
+ O XXOXOX
+OOXXX    
+XXOXOO   
+OOX X  XO
+XOXXOOO X
+OO X OXOX
+XXOO  XXO
+OOX  XX O
+X  XOOX  
+XOO XOOXX
+OOX OO XX
+OO      X
+  OO XX  
+  X  O  O
+XOX OOX X
+   OXXOX 
+X OOXOXOX
+   XO    
+ X   XO O
+OX   XO  
+  OO   XX
+ OOX  XO 
+OO  X XO 
+O O X X O
+OXX XXOO 
+X XOOX OO
+OX O     
+O  OX    
+XX OXOXO 
+X  O  O  
+ O O   XX
+ OX    XO
+ O   XX  
+    OX  X
+OXXO OO X
+O   X    
+ O    XXO
+   XXO   
+ O O XXO 
+  X OXXO 
+O     X O
+  O X  XO
+ XOXOO  X
+OXX XOXO 
+O X      
+X X O X O
+XOOX XOOX
+XOOOXO X 
+ XO XO OX
+X XXO O O
+ OOX OX X
+O XOXOXOX
+O   X   O
+XXOOOXOXO
+     XOXO
+OOXO    X
+OX O  XXO
+ XOOXOXX 
+X    OXO 
+X XO O X 
+XX   OO O
+ O OX   X
+  X    O 
+OX XOOOX 
+X XX OOO 
+ XX O OOX
+O X XOOOX
+OX    OOX
+ XOX  OXO
+OXXOO OXX
+  X    OX
+XOOX OOXX
+O XOXO   
+O XO  X O
+XOXOXXO O
+  O XO OX
+ O XXOXO 
+O OO XX X
+OXX  OOX 
+OOXOX XXO
+ X OOX XO
+X   OOOXX
+  OXO    
+X O  O X 
+ X XOOOOX
+  X   XO 
+XOXO XOOX
+ XOX XO O
+X X   OO 
+  XOXXO  
+    X  OO
+X X   XOO
+ X OOXX  
+     XXOO
+  O  X O 
+ X O   OX
+X OOOX XO
+XX OXOOOX
+O XX OXOX
+OXOOXXXOO
+X XX O OO
+ X  O  O 
+X  OX   O
+ X    X O
+ XXXO OOX
+XO  XO  X
+ XOOOX  X
+   OX XO 
+XXOOOXOOX
+ OXX  O O
+XO OOX   
+XOX  XOOO
+XXOOOXXXO
+X  O  XXO
+XOO X   X
+XXO OXOOX
+ OXOX OXO
+O   XXO X
+X OX     
+X O  XOXO
+X    OX  
+X  OXO O 
+OOOOXXXXO
+  XXOXO  
+X   O X  
+ O X O X 
+XXO  O OX
+OXOXXOXO 
+ OXO   XX
+ OO   X X
+O  XOOX X
+ XOO X  X
+O     OX 
+ O X XO X
+X   O  OX
+XO O OX X
+X   O   X
+OOXX O X 
+   X O O 
+OOXXXO   
+  XOXO   
+ OX  XO  
+  X      
+ XOXO  X 
+XOXXO O O
+ XO XOXOX
+OOXXXOOX 
+XXO  XOXO
+OOXO   XX
+O X OO XX
+OOOXXOOXX
+XOXXXOO O
+O XOXXXOO
+XXOXOOO X
+ XOXX OOO
+XOOO O XX
+ OOXXOXOX
+X  X  O O
+OX XO  OX
+X    O O 
+      XO 
+  OOXXXOO
+O O OXXX 
+X XXOOXOO
+OX OO OXX
+OO O  X X
+  XOX  XO
+ O OX X  
+X  OOX X 
+O X  O   
+O O XX   
+   OO XX 
+ O XOXXOO
+X O  XO X
+OOXXX X O
+   OO  XX
+OXX    OO
+  XX O OO
+X X OOXOO
+ OXXXOOO 
+ OX OXX O
+XX     O 
+  X OOX  
+XOX      
+XX O   OO
+OO O  XXX
+X X OOXXO
+OOX OX   
+OXO O   X
+XOOX  O X
+   OXX   
+X    X OO
+OXOOXOXXX
+   O XO  
+XO OXXOX 
+XXOXOOXOX
+OXO XXOXO
+ OOXXXOX 
+OXX  OXO 
+OXO OX  X
+XOOOXXX O
+O  X OOXX
+XX  OO  O
+OXOXXOXOO
+X X O    
+ X X O   
+XXO O XOO
+ X OX  XO
+  X O  X 
+OXXX O XO
+X X   O  
+OX  XOX O
+O XOOXXO 
+ X  OXO  
+XOXOOO X 
+XOXXXO  O
+XOOXO  X 
+   XO O X
+X  OOOX  
+O    XX  
+XO O   OX
+  O  X X 
+ X     XO
+XOOO XXOX
+XOO X    
+  OO  X  
+ XOOXXX O
+O O  XXX 
+XO XO  XO
+   X OXOX
+XO  O X X
+ O OOXXX 
+XO   XO X
+OXO  O X 
+OOXXX OX 
+O XX  OXO
+XXOXOX  O
+O OXOX  X
+ OX   X  
+X  OO X  
+XO XOXO X
+OX  O   X
+ X X  OXO
+OOX OX  X
+O  X  O X
+  X OO OX
+OOXXX OXO
+OXOOXOXOX
+XOOOOXXX 
+XO    O  
+XOOOXXXOX
+XOOXO OXX
+  X O XO 
+ XXOXOOOX
+X X  OO O
+ O    X O
+OOX OXX  
+OOXXXOOXO
+O XX    O
+XO X    O
+ XO  X OX
+  O X XXO
+X O X    
+ X XO OX 
+  O O X X
+ XXO   XO
+O O OXXXX
+  OXX OOX
+OOXOXXOXO
+  XOX O O
+OXXOOXXOO
+ X  XOOXO
+ OX XO   
+ X OX OO 
+ O XOXX O
+X  O OOXX
+XO XOXO O
+OXX  O XO
+XOO  XOXO
+ OOOX XX 
+XOXO X XO
+O X OXXOX
+ X  X OXO
+XXOOOXXOX
+X X  O   
+ XX OXO  
+ XXX OO O
+O     XX 
+O O XO XX
+OXX OOXX 
+ X    OX 
+O OXX OX 
+  XOO XX 
+ OO  XX O
+XO   OX  
+XO O XOXX
+X O   XOO
+XOX XOX O
+  OX O XX
+  XX    O
+OX OXO OX
+O   XO OX
+ XXO O   
+XO OX OX 
+OX  XO  X
+X XOXO O 
+XXO OOXX 
+ X  OO   
+X OXO OX 
+X   O XOX
+X O OXO  
+XO XOO XX
+ OX  O   
+XOX OOXXO
+O XOXXO  
+ XX X OOO
+OXOO XOXX
+XXOXO XOO
+X    X O 
+ XO X  OX
+XO      O
+   OX    
+OOX   XOX
+OX XO OX 
+O   OX OX
+O  XX    
+XOXOOX XO
+OX X O   
+XOO  O X 
+X OO OX X
+ OO OXXXO
+OX XOOO X
+  X X OO 
+XX O O   
+ X  OXXO 
+ O X  XO 
+OOXOXX  O
+OO X O  X
+OX OOXX  
+ O XOOX  
+O  O  X X
+ OX X    
+O  XXOOOX
+ O XOO XX
+OXXOXOX O
+   O   XX
+   O X   
+ O XXX O 
+X OX X O 
+ XX  O  O
+OOX  O XX
+ X   O  X
+XX  OOXOX
+ O OXO X 
+XO XO   X
+OXOXXOOXX
+  X OO   
+O  X  OX 
+ XXXO  OO
+X  X   OO
+   XO  XO
+O  OXXXOO
+XO  X OX 
+ XXO OX O
+OXX  OX O
+OX  XOO X
+ X O XO X
+ O X  XOO
+XO    X O
+X    XO  
+ XX OO XO
+XX O   O 
+   OOXX X
+      X  
+OOXOOXXX 
+OXX  X OO
+XOOXOXO X
+  O    XO
+X    OOX 
+X   OX O 
+OOOX XOX 
+O  XO OX 
+ OXXXO OO
+   XX OOX
+ X  X   O
+XOOX XOXO
+ XO    XO
+X        
+ OX XXOOX
+  XXOO XO
+X  XO  XO
+XOOOXOXXO
+   XO   X
+ X XOO  X
+ O  O   X
+O O X X  
+ XO   OXO
+X      XO
+O XOOXX O
+XOXXO    
+ O OX  XX
+OXO  X   
+ OXXXO  O
+X O    OX
+X XOX O O
+O  X XOXO
+OO X XOX 
+OX     XO
+  OXXO   
+XOXOXX OO
+ OOOXX   
+XO  X  OX
+XX X OO O
+ X   OX  
+OX OX   O
+ XOOX XO 
+OO OX  XX
+XXOXO    
+XOX  O X 
+XOX  OO X
+ OXX O  O
+X XXO OO 
+O XO   XX
+X OOXXXO 
+    O XO 
+ OOOXXXX 
+O OXX O  
+ X O XO O
+O X X OOX
+O   O XXO
+ X O  O X
+O XX  O  
+XXX   OO 
+XOX O X O
+OOXOOXXXX
+X    XOO 
+X OO OXX 
+ O  XXOO 
+XOOOOX X 
+OO O X  X
+OXOO OXXX
+   XOOOX 
+X   O XO 
+OX XXOOOX
+XOOOX  XX
+OXXOXOXOX
+ X  O O X
+ XO   X  
+X OX OO  
+XXOOOOXXO
+X  OX O O
+  OXXXOO 
+OO O  XX 
+XOOOOX XX
+XXOXO  OO
+O X X OX 
+XO XOX OO
+ XOO X  O
+X X   OOO
+    X   O
+X XO XOOX
+ O X OXOX
+OOOX   XX
+ XXO XOOX
+ X     O 
+XOX  OOXX
+OXOX  O X
+   O O XX
+O O    X 
+OX   O   
+XOXX XO O
+O     XOX
+O O X   X
+  X  XOO 
+  OOX  OX
+OX  O    
+XXXOXOO O
+O XO OXX 
+OO XXOOXX
+OXOXXXOOX
+X    O OX
+ XO   OX 
+    OXX  
+XXOXXO OO
+ XOX  XOO
+OXX    XO
+O X X  O 
+ X  X  OO
+X   O    
+ X  O XO 
+O  O OXX 
+X O OX   
+  X O X  
+XX  OOO  
+OO  OXX  
+ O  X X O
+X OO OXXO
+XO OX OXX
+OX XOXO  
+ XXXO  O 
+O  OX X  
+ OOXOX X 
+X OOX OXX
+O X OOX X
+X X    OO
+ XXOOOXOX
+  O OX X 
+ O XXO  O
+OO X X   
+X X  O O 
+O    X  X
+X X  OXOO
+  OXXOOXO
+XOO  X XO
+XXOO   XO
+OOXOX XOX
+OO O XXXX
+X  OXX O 
+ XO OX  X
+XOXXOOOXX
+ OOX X X 
+ O   O X 
+X OOX O X
+OXXOOOXX 
+XOXOO OXX
+O XX OXO 
+ X  OX OO
+   X  O X
+OX XO  XO
+   O  X X
+OO   XOX 
+  X OO  X
+   XX  O 
+X XXXOOOO
+X OOXOX  
+O OXX  O 
+    O  XO
+XO  XXO O
+XX XOOOOX
+XXO    OO
+ X XO  O 
+OX X OXXO
+XXO OOO X
+   XXOO  
+XOOX X XO
+O OXXOXOX
+OX  X OO 
+X OOO XX 
+X  XOO  O
+O  O  XX 
+   X XOOX
+XX OXOOO 
+X   OX XO
+OXXX OOOX
+XOXX OOXO
+OXO X X  
+   O  XO 
+OOX X OXO
+ X  OO OX
+ XXOX OO 
+X X X OO 
+XX OOXO  
+ XO O    
+  X X O O
+OX OXO X 
+X     O X
+XO    X  
+  XXOO X 
+X O O  X 
+ XOOXXOXO
+O   OX XX
+   OXOX  
+ XX   O  
+OO OX XXX
+OXXXOOO X
+OXOX OXXO
+XOXO XOXO
+ OXXO OOX
+ XX     O
+  XXOXOO 
+ XOOXXXO 
+OXOXXOXOX
+ X O  OOX
+O  OX XX 
+XOX  XOXO
+ XXOOX OX
+OO OX   X
+OX X  OX 
+XOXO OX X
+XOO OO XX
+ XXOOX OO
+XOXXO OO 
+ XO  O   
+X O OX O 
+X OX    O
+O O X OX 
+ O XO  OX
+OO OXX XX
+O X OO X 
+XX XO OO 
+OXX X OO 
+XXX  OO  
+XOXXXOOO 
+OXX     O
+O    XO X
+XOXX OOX 
+    O XXO
+XOOOXXOXO
+ OOXX  OX
+XO   X  O
+  OX O  X
+XXO O  XO
+XXOO  XOO
+X   OX   
+X X  O OX
+O  OX XOX
+OX O XO  
+X OO   XX
+O X X XOO
+OXOX O XO
+OXXOX OO 
+ OO  X XO
+ O  OXX O
+OOOXXOX X
+  OOXXOOX
+X  X XO O
+XOOXOXOXO
+ XOX O   
+XOXOXO XO
+O XOOO XX
+ X XO O  
+XXOX OOOX
+XX OX O  
+ O X   O 
+XOXOXOOXO
+ XOXXOO  
+X  OXOXO 
+XOX O X  
+O XO   X 
+O XO  X  
+  XOXO  O
+XOO OX XO
+  OOOXOXX
+O OXXXO X
+OXXO O XX
+ OXXOXOX 
+OXO OOXX 
+  OX  XXO
+OOX OXXXO
+XXOOX XOO
+ OOX    X
+OOXOX    
+X    XOOX
+OOOX   X 
+OXXO OXOX
+XOX X  O 
+    X XOO
+X X  OO X
+ O XX OX 
+OX   OOX 
+   X OOOX
+  O X   X
+X O  OOX 
+ OXOXX O 
+ X X OOO 
+O O OXX X
+     XOX 
+ X OX OX 
+O    OXX 
+O X XO XO
+XXOXOO OX
+ OO  XXOX
+ O X XOOX
+    OX X 
+XXOXOX O 
+O  X  XO 
+O O XOXXX
+OX   O X 
+OXOX OOXX
+OXXO O  X
+ XX    O 
+ X    O  
+ O   OXXX
+X  OX O  
+X OXOXO  
+   OO   X
+OXXOX  XO
+ X XX O O
+ XOO    X
+ XOXXO O 
+OXXOO XXO
+ X   O   
+O XXXOOOX
+X O  OXX 
+XO XO OXO
+    XO  X
+X O    O 
+    XOXO 
+XO OOX  X
+XO O O XX
+OXOXOOXOX
+OOXO  XXO
+XOX X OOX
+XOXOXOX O
+O OO XXXX
+    O O X
+OO  XO X 
+XOOXOX   
+OXOXO X  
+   OXO   
+XXO X OOO
+    XO   
+ XX OO OX
+  XOOO  X
+XO X  XOO
+XXOOXOXO 
+     XO X
+XX   O   
+XX O  XOO
+XXX   O O
+OXOOOXOXX
+OX  XO  O
+   XO  O 
+XO    OX 
+X  O   X 
+ O  X OXO
+ O OXX   
+X OOOX OX
+ O OXX O 
+OOO X X  
+XOX    O 
+X OO X   
+X  OOX O 
+ OXX O XO
+XX XXOOO 
+ XXXOO O 
+ O   X  X
+ O OOX XX
+X  OXXO O
+OX OXX XO
+ OO XXOXO
+ X OOXOXO
+XO   X OO
+OXXO  X O
+    OX OX
+ O  O  XX
+   O O  X
+XOX X  OO
+X XOXOXOO
+ XX  XO O
+OOXX  XXO
+OX OXXX O
+   XX O O
+OOXOX  OX
+XXO OX OX
+OOXX OXX 
+O OO XXXO
+   X    O
+OXO OXO X
+O XXO OX 
+XXO  O  X
+X  XXOOO 
+XXOOXXOOX
+ OXOXXO O
+OXXXOO  O
+ XX   OOX
+XXO  XO O
+   XOO X 
+OO XO OXX
+  X  XOOO
+XOX O    
+XO OOXOXX
+  X XO OO
+OOXXXO  O
+    X O  
+O OXOXXX 
+ X  O OOX
+ OOX XO X
+ XOO  XXO
+  XXO  O 
+  X O X O
+   XXOOOX
+OOXXOOOXX
+  XXO OX 
+XX O  O O
+  XOXO XO
+  OO O XX
+ X OOXXOX
+  X OX   
+     XX O
+O OXXOX X
+ XOX     
+OXXXO O O
+XX O  X O
+  XX O O 
+    XO O 
+OOXX  OX 
+XOOO  X X
+  O XO XO
+XXO OO  X
+XO  XOOX 
+XOOXXOOX 
+XO  OXXO 
+XX    O  
+X XOXO OO
+O X   XO 
+ O    OXX
+XX O OOXX
+OXO OX X 
+    OXX O
+OOX   X  
+ O  OX X 
+ OX O XXO
+ OX OXOX 
+XOOXOX X 
+ X  XOO O
+XX   O  O
+XOOXO    
+X   OXO  
+ XOXXOOOX
+O  OOXXOX
+  O O XX 
+ X XXO O 
+ OOOXX OX
+O X OOX  
+  X OX O 
+  OXOXXXO
+  XXO O  
+XO X OO X
+XO X   XO
+OO OX XX 
+XOO  OX  
+O X OX   
+ OO    X 
+   X OX O
+XO OXOXXO
+OXXXXOOO 
+XXOO O   
+OX XXOO X
+XXO   XOO
+XXOXOO  X
+XXOO  OOX
+OXO   OXX
+  OO   X 
+  XO OO X
+X    OO X
+O X  XOOX
+OOOXOXOXX
+X OX XOOO
+  OO XOXX
+ OXOX  OX
+ O OX OXX
+OX X OOX 
+O O O XX 
+O  OX  X 
+ XXOX O  
+  XO     
+ OOO XX  
+X  OO  XO
+OXX      
+ O   X XO
+ XXOO OX 
+   O   XO
+X O O  XO
+X OOXX  O
+OXOXX  OO
+  X O  OX
+ O  OXOXX
+XOO XO X 
+ X O   O 
+OOXOXO XX
+O   XO   
+X   OO XX
+ XOX O XO
+ XOO O XX
+ O   XO  
+OXX O OXO
+O  XO  X 
+OX O O  X
+XXOXOOXO 
+ X X  OO 
+O   O X  
+X  XOO   
+O XXOXOXO
+X  XO  O 
+OOXXXOXOX
+XOXOXX  O
+XO XO O X
+O X   OX 
+  X     O
+    O X X
+XX  OO XO
+ XO OXO  
+OOXX  X  
+ XXOOO XO
+OOXOXX  X
+X  O OX  
+XOXOXOXXO
+OO XX XOO
+XO OX    
+ XX   OOO
+ XXO  OOX
+  X O OOX
+OXXO X   
+XXOOO XXO
+OOO XXX O
+ XXXOO XO
+OO  X XXO
+XO O    X
+O XOX  XO
+XOX XOOXO
+OO    XOX
+X  O     
+XX  OOXO 
+OXXOX  O 
+  X O  O 
+X  XOOO X
+XO XXXOO 
+XOO O  X 
+XO XXOXO 
+ OXXXOOXO
+  X  O XO
+OX X X OO
+OX O XXO 
+XOXOOXOX 
+ OXXX O O
+XXO O  OX
+XX X O OO
+O  X  O  
+ O   XX O
+ O XO    
+O  X   O 
+OO X X  O
+OXOOOXXXX
+ X X OOOX
+O X  XOO 
+O O XOX X
+OXX OX O 
+X     OX 
+X OOOX   
+ OXOO X X
+ O XXX OO
+O   XXOOX
+XO OOX OX
+OXXO XO  
+ XX OX OO
+   XX O  
+X  O  XO 
+X      OX
+  X XOO  
+ XXOXO XO
+    O    
+X  X XOO 
+ X OX  O 
+ X  O X  
+OXXO O   
+ OO  X OX
+   X X O 
+  O XX O 
+   O OOXX
+XO XOOO X
+OO XOX X 
+XX X OOO 
+OXX XOOO 
+XOXOOOXXO
+ XOO XX O
+  X  OX O
+   XOXOOX
+ XO OX OX
+O O XOXX 
+OOX OXXO 
+XOXXOOOX 
+ X  O    
+ X   X  O
+XOX O  O 
+OOX O   X
+X    O   
+OXX  XOO 
+O  XOXO X
+ XOOXX  O
+OOX XOXOX
+    X  OX
+ X XO   O
+O OX   XO
+   X OX  
+XOXOXOOXX
+XXOX XOOO
+  X X XOO
+XOXOOXX O
+ O O  OXX
+OXXOX  OX
+OX XOO XO
+X X O   O
+ O    O X
+OXOXOXXO 
+ XO XOO X
+   OXOX X
+OO XXX  O
+ OXOO X  
+O O XXXXO
+XX OXOXOO
+OO   X  X
+XOXO X   
+XO OX   O
+  OXO O X
+ X OOOX X
+XOO  XO  
+XOXOXO  O
+OX    O  
+OXXOXOOOX
+O   X  X 
+ OXOXXOOX
+OXXO OOXX
+XXXOOXO  
+XXXOO O X
+ X    OXO
+OX XOX OO
+OXXXXOOOX
+O X OOOXX
+O O  XX X
+OOXOXX OX
+OXO  XO X
+OXO X OX 
+O   OXOX 
+X X XOOOO
+   X O  O
+  O  OX X
+OOXXXXXOO
+XXOXO O O
+ OXOX  O 
+O OXXOX O
+XOXX OOOX
+O  OXXX  
+XX OXOO  
+OX  XOXO 
+OX   X O 
+ XOXOX  O
+     OXOX
+XX OO  XO
+XX O  OXO
+ XO  X XO
+    O   X
+XOOOXX   
+ O  OX XO
+XOXX X OO
+O X    OX
+XO XXOXOO
+ OOXOXXXO
+ OXOX   O
+ X X OXOO
+  OOX  X 
+XXOOO O X
+ O  X    
+X  X O   
+ X OO    
+XXOOX X O
+XO X  O  
+O OXXOX  
+XO  OX O 
+ X    OO 
+  XXOOX O
+O  XXO XO
+ X O  X O
+X O  OX  
+OXXX   OO
+   XOX XO
+   O O X 
+XX  OO O 
+XXOXXOO  
+O X  OXO 
+ XX  OO X
+X OOXXXOO
+    X  XO
+OX  O XXO
+OOXXOOXXX
+   XX  OO
+XO XOX   
+OO X OX  
+XX OO O  
+        X
+XX OO OX 
+O  X   X 
+XOXOO XOX
+    X    
+XOX  XO  
+OXX  XOXO
+     OXX 
+ XO O  XO
+ OXOXO XO
+     O OX
+O XX OXOO
+X  OX  O 
+OOXXOO X 
+OXXOXOO  
+XO   O  X
+OXO  X XO
+OXXO OOX 
+X  XOO XO
+ X  O OX 
+O O XXO X
+OXXOXO   
+  O XX  O
+XX O OX O
+ OXXX OXO
+OOOXX XOX
+X    OOXO
+X  O  O X
+OO X XOXX
+OXXOOXOXO
+OX  OXXO 
+OXX    O 
+X O   OXX
+ OXO O X 
+O OXX   X
+      X O
+   XXO O 
+ XOOOX XO
+OXXO OXXO
+  OO XO X
+OOXXX XOO
+  X O OX 
+ OO XXX O
+ OX X  O 
+OX   OXXO
+ OOX XX O
+ OXXXOO X
+XXX  OO O
+ OXOXXXOO
+ O   XO X
+ O XX  OX
+XOXO OOXX
+XXO  X O 
+XXOOXO   
+XOX OX OO
+ OOXX XO 
+  XOOOXX 
+X XX   OO
+OXXXXOXOO
+XX XOOOO 
+X   O  XO
+OX    OX 
+  OOX XXO
+X OX O  O
+ O XX   O
+OXOXX  O 
+XO OX XXO
+OOXX  X O
+X O OXX O
+OOXXO XX 
+XO   O   
+O  OX XO 
+X  O   XO
+  OX  XO 
+  XO  OX 
+    X XO 
+  X X  OO
+X   OOX O
+ OOXOXX O
+ O XO  XO
+ XO  XOXO
+OOXXXOO X
+OOXOOX XX
+XO X XOXO
+ OXO   X 
+ OOXXO OX
+O  OXXOX 
+X   O O X
+XXO   OX 
+OOO OXX X
+   X XO O
+OXOXX O  
+OX X   O 
+OOX  X  X
+XX OOX O 
+OX OXX  O
+ X  O O  
+XX OX OOO
+    XXO  
+  X O   O
+     O XX
+  O XO  X
+ OXO  X O
+OXO  OXX 
+XXOOXXOXO
+XXOX  XOO
+O  XX  O 
+O O OX XX
+  XO    X
+ X OOXOOX
+OOOX  XXO
+OXOXO    
+OXO OXX X
+XOOXXXOOX
+OX    X O
+ O     XX
+XX XO  OO
+ OOOX X  
+ XXXOXOOO
+OXX XOO X
+XXO OXOXO
+  X OX OO
+X XX OO  
+X X O O X
+O   O XXX
+   O OXX 
+XXOO  X O
+ XO  OX X
+OXO   XXO
+XXO O    
+XXO  OO  
+XXOXOX OO
+X OX O X 
+ XOXO X O
+    O X  
+OO XXOX  
+ XO XXO O
+OXXX OXOO
+ XO   OOX
+OX XX  O 
+XO  OOXX 
+OOXXXXO O
+ X     OO
+ X  XO OX
+  OX OX O
+ OX X OOX
+OO     X 
+X X  O XO
+XX OOO XO
+ O XXOOX 
+X  XOOOXX
+OOXX  XOO
+XXXX OO O
+OXOXO  X 
+ X OX O  
+X  X  O  
+ X O O XX
+XO O OOXX
+   O XOX 
+   X OO  
+XXOO   OX
+OOXX OOXX
+OO  XO  X
+ XOXOX   
+O OXOXXXO
+ O  OX  X
+XOOX OX  
+X   OOO X
+O XO OXXO
+XXO   OXO
+ OOOXXX  
+XO OXXOXO
+ OOO X XX
+OOXX O OX
+OX OXX OO
+      OXX
+OXX X OOX
+O X XX OO
+ XO O  OX
+ XO      
+OOO XX X 
+OO  X XOX
+OXOXOX XO
+OO X X X 
+ OOXO X X
+X X OOO X
+O X XX O 
+     X OO
+OXOOXOX X
+ X   O X 
+OX  OO XX
+X OO OX  
+OOXO  XX 
+OXOXOOXXO
+X XX OOOX
+X  OOXXXO
+OXO XX OX
+OXXOXO O 
+OO  OX XX
+  XOX    
+   X OOX 
+XOX XOOOX
+  O     X
+ XXOX OXO
+   O XOOX
+XOOOOXXXX
+XOXXO OXO
+ OO   XXX
+OX OXO XX
+OX    X  
+OO  X  X 
+OO  OX  X
+O X  O OX
+X   OOOX 
+ X O XXO 
+ OX XOO X
+OO X    X
+ XXO  X O
+OO OXXO X
+ X  OOXOX
+ XO  O OX
+ OX X OO 
+  O   X O
+O O  XOX 
+  XO O  X
+ O  O XX 
+ O  XX  O
+OO    X  
+ XOO X   
+XXOX XOO 
+XO O  OXX
+ OX O  XX
+OXOOX XO 
+ X XXOOO 
+ OX  XOX 
+ O OXO XX
+XXX OOXO 
+O XOX XOX
+X X X OOO
+    OOOXX
+XOOOO XX 
+  XXXO OO
+ X    OOX
+X OO  O X
+  OO  XXO
+OOXX     
+XOOXX   O
+X OXOOXX 
+OOXXO XXO
+XXOO OXXO
+OX X     
+O X     X
+XOXXOOOOX
+ X O X   
+  O OX XO
+OXOXX OOX
+    OXXO 
+OX O  X  
+O   XXXOO
+O  X OO X
+X OOOX X 
+ OXXX XOO
+O   XO X 
+ OXOXXO X
+X  X OOXO
+  X  O OX
+X OOOXXX 
+OXOXXXXOO
+XXXXOOOXO
+  XOO XOX
+ OXXOXX O
+XOOX OX X
+ XXO O  X
+XXX    OO
+ O XOX OX
+X  OXO   
+XXOXOXOOO
+ OOO  XX 
+X X OOOOX
+ OOXX OX 
+X O  OOXX
+O  OXXOOX
+X    OXOX
+ XXOOOOXX
+X  O X   
+  X   O  
+ XX   O O
+OXXXOO OX
+ X XOO X 
+ O X OX  
+ O   XXO 
+ XXOOOX  
+X   XXOO 
+X  OXO  X
+O  XXOX  
+ O  X XOO
+ O  XXOX 
+X OOX OX 
+  X XOOOX
+ OXO     
+ OXOX X  
+O OX  X  
+O      XX
+XO   XO O
+XXOOXOXOX
+ OXOXX  O
+OOXXOXOXX
+  OXO XXO
+ OXOO XX 
+OOX  X   
+  XX O OX
+O     X  
+ OXOOXXX 
+XX   OO  
+OOXXOO XX
+OXOX X OX
+OX OXOXOX
+OXXOX OOX
+OX OX OOX
+OXOXO XOX
+OO XX O X
+ X  O X O
+ XXO  OX 
+ O XOXO X
+X O      
+O X    X 
+ XOOOX OX
+ OOOXOX X
+ OOXXXXOO
+ X O O   
+O  XXOXOO
+X XXOXOO 
+OX O O XX
+O XX  OX 
+  X O   X
+   XX XOO
+   XOO   
+O  OX X X
+O    XXOO
+O   OX   
+ XOX   O 
+OXXXOO XO
+O XXO    
+XXO   OOX
+O  X XO  
+ X OO OXX
+XO   O OX
+OX OXO  X
+ XX OOOOX
+ O   X   
+XOOOXX XO
+OOXX O XX
+OXXOOOOXX
+ OXX   O 
+X     X O
+ X XXOOOX
+X  OO O X
+  O X OXO
+XO X OO  
+X XXOOOOX
+ X  X O O
+OOXX OX  
+O   XXOX 
+O OXX   O
+X  X O OX
+XOO OOXXX
+ O X  O X
+X OOOXX  
+  XO X O 
+XO   O XX
+XXO OO   
+  O OXXOX
+ OX  O X 
+X O OX XO
+ O OX X X
+XX OXOO O
+OOO XXXXO
+XOOO OXX 
+   OXX  O
+  O    XX
+   OXXOOX
+OX  OXO  
+ O  X O  
+  OO X   
+   OO  X 
+ O X    O
+OXOO X X 
+OXXOOO XX
+X O  X  O
+ OXXOOXO 
+  XXOOOOX
+ O O    X
+OO     XX
+  O  OX  
+OOXXO  XX
+O X OOXX 
+X OO O X 
+O OXXO XO
+OOXXOOXXO
+OXXXOXOOX
+O  XOX X 
+ O X O   
+ X  XXOO 
+O  X X  O
+OOO XXX  
+XOOXO O X
+ O OX XX 
+OXO XXOOX
+OOX     X
+OOOXOXXX 
+XOX X O O
+   O    X
+ OX O XX 
+O OXXO  X
+XX XOOOXO
+ XOX   OO
+ XOOXOX  
+O XOOX X 
+X XOXO  O
+ O   XOX 
+  XXO   O
+ XO  XO O
+XOX  XOOX
+O X   O X
+ OOOX  XX
+OX X O  O
+XO  XOX O
+XO  O XXO
+O  XO XO 
+ OOOXOXX 
+X OOXXOO 
+OX   XXO 
+X XOOXXOO
+X  XO    
+O   X   X
+XOXXOX OO
+ OX  XX O
+ OOXX  XO
+ X O   X 
+  O  OXX 
+XX  OOOXO
+XXO OX O 
+ XOO   XO
+    OX O 
+O X     O
+X  O XO  
+O  XX OXO
+ O    X  
+X       O
+OXXX OOO 
+OX O XOX 
+  XO  O  
+  OO X XO
+  O X    
+     XXO 
+     O   
+XOX OOOXX
+O XOX OX 
+ XXXO XOO
+  XOX O  
+   XO   O
+ OO   XX 
+OXXXO OX 
+ XOXOX OO
+XO  O XOX
+ O X XOXO
+ OO XXOOX
+O X OXOX 
+XX  XOO  
+O XO  XOX
+OO  X    
+      XOO
+   O XO X
+   OOXXXO
+OOXX XO O
+O X X    
+ OXOXX   
+O OX XOXO
+OXOXX XOO
+ OX  O XX
+OX OX XO 
+O    OX X
+OXXXOOXOO
+O X OOXXO
+ OXOO XXX
+XOOO  XXO
+X     O O
+ X O    O
+  X    OO
+XO       
+ O X OX X
+X OX O   
+     OXO 
+OXXXO  OO
+   O  XX 
+ OOX XXOO
+O  X OX X
+ XX  OOOX
+OXOX OOX 
+ XXXO OXO
+   OOX   
+X  XOO OX
+XOXOOXXXO
+OOXXOX  X
+  OXXO OX
+ O XX OO 
+XXOOXOXOO
+XO  X OO 
+XOX  O OX
+ O XO X O
+ O OXXOOX
+  XXO OO 
+X XOO  XO
+ OOXXX OX
+X  OOOOXX
+ X  X  O 
+X XO XO O
+ XO  OXO 
+O X XOX  
+OOXXOOXX 
+XOO  XXXO
+XOO  XO X
+OXXXXOO O
+ XOX X O 
+ OXOXOXXO
+ OX  X  O
+ O    OX 
+O   OXXXO
+ X  X O  
+OXOXOOOXX
+XX  O XOO
+  X XO   
+XX OXO O 
+OO XO   X
+X O   XO 
+   OO XXX
+XOOOXXXO 
+O XXXOXOO
+X   X OO 
+OXOXOOXX 
+X OX OXOX
+       XO
+OXOXXO   
+X OO   X 
+X XOOOXXO
+ OXOXO XX
+OXXOOXXOX
+OXOXOXOXO
+O XX     
+O OXXOOXX
+  XOO  X 
+X   X OOO
+ O  OXO X
+  OX  O  
+XOXXXOOXO
+ XXO OXOO
+OX OOXXOX
+   O  XOX
+ XXO OXOX
+  XX OOX 
+XXXOOXXOO
+ X X O O 
+     OOXX
+OX X  OOX
+O XXOOXOX
+XXXOXOO  
+X X OOXO 
+XXOOOX  O
+ OXXX  OO
+XX  O    
+OOX  OX X
+XO  OX   
+XX   OOOX
+X   OO  X
+OXO XO X 
+O OOOXXXX
+  OXX OO 
+XXOXO O  
+OXX XXOOO
+ OXXOX O 
+XX XOO O 
+O      X 
+O O    XX
+X XO XO  
+O  XX O  
+OXX X  O 
+XX O  O  
+XOXOXXXOO
+XOOXOX O 
+X  OOX XO
+    OO  X
+O  XX XOO
+XO  X    
+X O XO O 
+XOO  XX O
+OXXXOX OO
+O O O X X
+ OOOXXOXX
+ O    X X
+    X O O
+OX  X  OX
+O XX OX O
+X X OO OX
+OX  OX   
+ X XOOOXO
+OXOXOO XX
+   O   OX
+  X OOOXX
+ OO  OX X
+  XOX O X
+O   X X O
+  O  OOXX
+OXOX XO X
+OX X O XO
+   O X X 
+XOOX XO X
+XOX   OXO
+XOXXXO OO
+ XXOOO X 
+XOXX  O O
+  XXXOOO 
+  OOXXOX 
+OXOXOXXOO
+OO  XX  X
+XXO  OOXO
+XXO     O
+OXO  XO  
+XOX OO XX
+   OX X  
+XO OXXX O
+O O   XX 
+OXO  XXXO
+OX XXOOO 
+OX XXOX O
+ XO  OXOX
+XXOOOXXO 
+XX X  OO 
+ OXXO   X
+ O   XOXX
+O OX O X 
+XXOO     
+X OXXOOXO
+  OXX  O 
+  OX O   
+ XO  OO X
+O O XO X 
+ X  XO  O
+  O  X   
+XOXOOOOXX
+XO OO X  
+X   XOO  
+XO  XOX  
+XXO   OO 
+XXO  OOX 
+OXXO   XO
+ OO   X  
+O  XXOXO 
+OX    O X
+OOX O  X 
+XOOXXOO  
+ OX OXO X
+XXOOXXXOO
+  O   X  
+  X  O   
+XXOX OXO 
+ O OXX XO
+OO XOX  X
+  XXXOOOX
+X XO   O 
+OXOXOXOX 
+XXOOO XX 
+XOO XX   
+XOXO X  O
+O   XX   
+X OX XO  
+     OO X
+  OX O XO
+XXOXXOOOX
+OOXOXOOXX
+O XXX OXO
+ OOOOX XX
+O  O X X 
+OXX  XO O
+ XOOOX XX
+OXOX X O 
+XX  O   O
+XXOO  X  
+O    XO  
+  X  OXO 
+    OXO X
+OXOXXXOO 
+OXXOOOX  
+  XX O   
+OXX X O  
+ OXXOO XO
+OXOO XXOX
+  OOXX OX
+X X OO O 
+    O X O
+X O     O
+  OX  X  
+OXXOOXX O
+OXXO  XXO
+X O  X   
+ XXOOX  O
+OXX   O X
+ XO    OX
+ XX    OO
+O X   X  
+XOX   OO 
+XOOO X X 
+  OOX   X
+O XXOXOX 
+OO X  XX 
+X  OO OXX
+     XO  
+OOXXOXXO 
+ X  O OXO
+XX XXO OO
+X OOX    
+  XOO X  
+O   OXXX 
+X  XOXOOX
+X  OXOX  
+O XO XX O
+O   OXOXX
+ X  OOX X
+O X  XO  
+OOX XO XO
+OX XXOO  
+OO OX X X
+OOXOO  XX
+  OX    O
+X    XO O
+XO X  OXO
+XOX O XXO
+X  O XXOO
+ XX O    
+OX OXXXOO
+       OX
+ X    O X
+ OXO    X
+    OO XX
+      O X
+ O XO   X
+ XOO   X 
+OOXXOX   
+ XO  O X 
+  XXOOOX 
+X XX  O O
+OXXXOOXOX
+X X OOOXX
+XOOOOXXXO
+ XOOXXXOO
+X  XO OXO
+ XOOX X  
+OXX  XO  
+ O XX XO 
+X OXXOO  
+O  X    O
+OXO OOX X
+O XO     
+ XXXOOO O
+     X OX
+OX XXO O 
+ O OX XXO
+  X   X O
+  OOX XOX
+  O XX XO
+X  OO    
+  OO X  X
+ O O XX  
+XOOOOXXOX
+X OXO   O
+X O XOX O
+O XX X O 
+ O XXXO  
+ XOO  X  
+OXOOOXX X
+ XXOXOO  
+ OOX XXO 
+    OXOOX
+    OX  O
+XX O OXXO
+O O XX X 
+ O XOXOXX
+  XO   O 
+X O O OX 
+XO XOXOXO
+  OOOX XX
+ XXXOOOXO
+   X   OO
+XXO  XOOO
+O XOXXX O
+ XO X  O 
+OXXOX XO 
+O   O XOX
+X    OO  
+XXO  O XO
+OOXX X O 
+    O  X 
+ XX XOO O
+ XXOXOOX 
+ X  XOOO 
+O  X OXXO
+O   XO  X
+OXOXOOX  
+XOXOXXOOO
+ OOOOXXX 
+  X  OOXO
+ O XO  XX
+X XXOOOXO
+OXX X   O
+X XX OO O
+O  X  X  
+XXOOO XOX
+X OOX  OX
+OOXXOXOX 
+XXOOXO  O
+OXO OOXXX
+X  XOX OO
+XOXX OO O
+O X OXOXX
+XX OOXOO 
+XOOXXOOXX
+OX   X  O
+ X   XO  
+OXOOO XXX
+XXOX XO O
+X O XXOO 
+X   X  O 
+OX XO XO 
+      O  
+X X OOX  
+OOXXOX O 
+ XO XOX O
+X     XO 
+OOXXXXOXO
+ X O  X  
+X X   O O
+XO XO  X 
+OOOX  OXX
+OO XOXX  
+ XOXOX XO
+O   O  X 
+  X XO  O
+OXO  XXOX
+ XX XOXOO
+X XO OXO 
+XXOOO  XO
+X  OXOO X
+X O OXXXO
+XOXXOXO O
+XOXO XOO 
+XOXXO X O
+XOXOX XO 
+XOOOOXOXX
+  OOX OX 
+X OX  OX 
+XX  OO OX
+ OOOXXXOX
+O  XXO O 
+XOXOXOX  
+XOXOX O O
+ XX X OO 
+X   O X O
+XO OO OXX
+O    O  X
+OX  XOO  
+X OX X OO
+OXO  X X 
+X  O  X  
+ XXOX O O
+OXXO  OX 
+ X XOO   
+O  OXOXX 
+X XOXOOXO
+XO  OOOXX
+ OXOO  XX
+XXOXO   O
+  XOOXO X
+ OXX OO X
+X XXOO OX
+X   XOOXO
+  X OO XO
+O  X OOX 
+OXOXXX OO
+X   O OXO
+OXXO OX  
+XO  X   O
+OX XOXO O
+   X  OO 
+ O X  X O
+XOO X X  
+OOOX O XX
+   X   O 
+ OXX  O  
+OX  O X  
+   OOX XO
+O    XX O
+ X      O
+ X   OO X
+XXO  OXOX
+O X  X   
+O O X    
+O O   OXX
+XXXOOX OO
+X  OX    
+OXOXOX OX
+XXOXOO X 
+OX OOX   
+O  O X XX
+O   OXX  
+XXX OOOOX
+OOXXXO X 
+O    X   
+OOOXOX XX
+OX  XOOOX
+     OX  
+XOOO   XX
+OXOXX OO 
+X   XOO O
+O  XX  OX
+XOOXXO  O
+XOXO O X 
+ XOXOXOXO
+ O    XO 
+    X OOX
+XXXOXOOO 
+O XOX    
+O   X OX 
+O XXO X  
+XOOO XOXX
+X X  OXO 
+XXO X  OO
+OO OXOXX 
+X OX  XO 
+XO XXO  O
+ O  XXOOX
+ OOXXXOOX
+O X X  OX
+ O O OXX 
+XOO    X 
+OXXX    O
+ O     XO
+XOOXOXXXO
+O  XXOOXX
+ OXXOX  O
+   O OX  
+OXXO XOXO
+ XO    X 
+    XOOXO
+XO XXO OX
+XX  OOOOX
+X  OXX  O
+XX OXO OX
+OOXOXX   
+OXOOXXXO 
+OO  XX   
+XX O XOOO
+XOXXOOXXO
+XXOXOXO O
+OXO XOOXX
+ O OOXXXX
+ OX    X 
+   O  O X
+OO   OX X
+XXOX OOXO
+ O  O XOX
+     O X 
+  OO OXXX
+XO X OX  
+OOX  XXXO
+  X   O X
+XOXOXXOO 
+O    OX  
+OXXOXO OX
+OOXXOXX  
+  XXX O O
+  OXX  XO
+ XOO  OXX
+ XOXOXXOO
+  O XXO  
+O X O OXX
+XOXOOOX X
+  OX OOXX
+O X OX OX
+OOXX OX O
+  XX  OO 
+  O   O X
+XOOXO  XX
+ XX OXOO 
+OO XXXOX 
+XOXXOXOXO
+ X X XO O
+O X O  X 
+ XXOXOXOO
+ X OX   O
+OXOX    X
+OXOXX    
+XOOOO X X
+XO  O    
+ OO  X X 
+XXX  OOO 
+O XOOXXX 
+XOXOOXOXX
+ O X X O 
+ OO X X  
+ O  XO X 
+OOXXXOX O
+XXOXX O O
+  OOXXXXO
+X OOXXOOX
+XXO X OO 
+  O      
+ OXOOXOX 
+O   XOX  
+ XXOXOOO 
+  X   OX 
+OO  X X  
+OO X XOXO
+XXX  OOXO
+ O XXX  O
+ OO OXXOX
+XO OXXOOX
+XO O  X  
+X   O  O 
+XO XO    
+X  OO OX 
+ OOX  X  
+X     OO 
+OO X  O X
+OOX O XX 
+ OO  OXX 
+   X  XOO
+XOXO OXOX
+X OX OOXX
+OXXOXXOO 
+ X OOOXOX
+O     XXO
+ O  O X X
+ O   O  X
+O O XX  X
+XOOXOOOXX
+O O XXX O
+ OXXX OOO
+O   XXO  
+X XO O OX
+XOO OOX X
+O XOX O X
+X O O XO 
+O XXOO X 
+ OXOX  XO
+ X O  XO 
+ XOX O  O
+OOOXXO  X
+ OXX   OO
+ OO XX  O
+O OXXX  O
+OX   OX O
+X OXXXOO 
+OXOXO   X
+O X  OXXO
+OOOXX X O
+ XX XOOO 
+ OO XX   
+ OXO X O 
+XO X X O 
+OO OX X  
+O OX XOOX
+XOOOXXXXO
+ OX O   X
+XO XOOXXO
+OXO XOO X
+XO O XXOX
+O  XOOXXX
+XOO OXXXO
+ O X  O  
+OXXX O   
+ XXXO O O
+XO  XOO  
+OX OO  XX
+O  XOXXO 
+     X XO
+OXX XOO O
+X   OXOOX
+OX X    O
+XXO O XO 
+X   XO O 
+  XO   OX
+XX    OXO
+O X XXO  
+XOX XO OX
+X OX  OXO
+  X  OX  
+XOOXOX XO
+OXXXXOOOO
+ X OO  X 
+  X    XO
+     XO O
+  X OOX X
+X XX  OO 
+    XO XO
+XOXO  OX 
+OX X  O  
+X  OOO XX
+ OXXO    
+OX OOXXX 
+  OO OXX 
+XO      X
+X O  O   
+  X  OOX 
+ X   X O 
+XO OOXXXO
+OXXX  OOX
+ X  OXOOX
+OXXX OOX 
+ OXXOXXOO
+X X     O
+  OX   X 
+XXOOXO OX
+ XO OX O 
+OXXXO   O
+OO XOX XX
+ XOO XO  
+O  XXXO O
+O    X  O
+O  XX OOX
+XXOO X   
+   OXO  X
+ O OOXOXX
+OO OX XOX
+OXOXO  XO
+OOXXO  XO
+ XOXXO OX
+O    OXXO
+OX X  XO 
+OOOXXOXOX
+ O XX  O 
+OO  XOXOX
+OXOX   XO
+ OXX OO  
+OXO   OX 
+O   XX  O
+OOX  OX  
+ OO X    
+XOXXXOOOX
+X OOX  X 
+XOXXO   O
+OXO OO XX
+XO  OO XX
+X X OXOOO
+OXXX O O 
+ OOOXXXXO
+ XXXOOOOX
+  XXOX  O
+OX XOO   
+XX O    O
+ OXXOO  X
+ O OO  XX
+XXOXOO XO
+    XXOO 
+     OOX 
+ X X XOO 
+ XX  OO  
+X   XO   
+ O O  XXX
+O X  XO X
+ XXOO  OX
+ OOX O X 
+ X OOXXO 
+ X X  O  
+XXXOO OOX
+O  XO X  
+ OX OX  X
+ O    XOX
+ X OX    
+ X O X  O
+XOOX  X  
+XO O  XOX
+XO O     
+OXOXOX X 
+ O  XXO  
+O OOOXX X
+OX OOXXO 
+  X O O X
+   X O X 
+ O O XOX 
+O  XXXOOX
+ XO     X
+OXOX O   
+OXOX OX  
+XXO XO OO
+OXXOOX   
+ XO   X O
+X XO OXOX
+OX OO   X
+OXO  OXXO
+OOOX XXO 
+ X XO  OO
+X O OOX X
+OOXXO    
+ XOX XOXO
+XOOO    X
+XX XO XOO
+OOO X XX 
+OX  OXXOX
+   X  O O
+OXOXOXOOX
+O   XX O 
+O  XX O X
+ O  O  X 
+XO     X 
+XXXXOOOO 
+   XO  X 
+    O  XX
+O OX O XX
+ OX  X   
+OO X  XXO
+  OOXOX X
+XX OXO   
+OX OX XXO
+     X   
+  XX O  O
+ OX XO  X
+OX    XXO
+XXO  O   
+OOXXXOX  
+X OXX   O
+X X OX OO
+OX   XX O
+ XO     O
+XO OXX OO
+   OO XOX
+XX OO    
+OO X OOXX
+    XOX  
+O X X O  
+X  OXXXOO
+XO    XO 
+OO  X O X
+XO   XO  
+O   O  XX
+   XX   O
+ XOOXXOX 
+       X 
+OO  XOXXX
+XOXOOXXOO
+XO O XOOX
+XXOXX  OO
+XXO  O X 
+ XOOXOXOX
+OXX  O O 
+   XO XO 
+ XOX XOO 
+OX O XO X
+O    X X 
+XOOXOOX X
+  OX   O 
+XOO  OXX 
+ X OOO XX
+ OOXX XOX
+ X OOX  X
+XOXO XOX 
+   OX OXX
+ XO XO   
+OX O XX O
+XX OO   X
+ O  O X  
+XX O     
+OOX X    
+XO XOXOOX
+XX  O  O 
+XX   OOXO
+  XOOX   
+X  O    O
+O XXOXXO 
+O   O XX 
+XX  XOOOO
+X  O OXO 
+O XOXOXXO
+O O XXO  
+O O  O XX
+  XOXX O 
+X  XO  OO
+      OOX
+XXOO X O 
+OX X  OXO
+X OOOXXO 
+O   XOXO 
+XXO OO X 
+ XO X XOO
+O  X OX  
+O O XX OX
+OXO  XOOX
+ OX  OX  
+O OXX XOO
+O  O    X
+OOXXXOOXX
+X OX  O O
+ X O O  X
+XO X   OX
+OO  XOXX 
+XO  OOX X
+O  O  OXX
+ O O X X 
+X X  OOOX
+XXXXOOOOX
+XO XOX XO
+OOXXOOXOX
+ XOXOO X 
+ X X   O 
+XX OO OOX
+ OX  X O 
+XX OXOX O
+XOXO  XOX
+O  X     
+O X   OXO
+XXOO XOOX
+X OOXXOXO
+ O   OOXX
+O OX     
+X XXXOO O
+  O  O XX
+ O  OX XX
+  OXOXXOX
+X O XOOX 
+OX XO  X 
+ OOXOX XO
+O   X XO 
+O   OXX O
+ OXO   XO
+   X O   
+ OX  XO O
+ OX      
+ X  X XOO
+      XXO
+XOXO X O 
+OXXXOOOXO
+ XOXX O O
+ OXX    O
+ XX O O X
+O X   OOX
+  X OO XX
+OOXXOXO X
+OOX X OOX
+OXOXOXXOX
+O   OOX X
+XXXOXOOXO
+  XO XOO 
+O  O  X  
+X O OO  X
+X   OO   
+X XXXOOO 
+OO XXOXOX
+X X O  OO
+OOX X O X
+  OOOXXXO
+X    O XO
+XO   OX X
+XO OX  X 
+X O OXXOX
+OXOOOX X 
+ OO X   X
+OOXXOOX X
+ XOOXOX X
+XX X OOOO
+XOXO OXX 
+X XOXOO  
+OX O  XO 
+  O X  X 
+OXOX X  O
+ O  XX O 
+ OX X OXO
+       O 
+XOOXXO OX
+  OX XXO 
+  XXXOO  
+XXOOXOOXX
+O X XO  O
+    O XOX
+XO X O O 
+XXOOO OXX
+ OOX XOXO
+X OXX  OO
+XOX OO OX
+XOX O XO 
+XXOOOX XO
+  O   OX 
+  X XOXOO
+ OXOXOOXX
+X  X OO O
+OXO XX  O
+XX  O O  
+    X O X
+  X XOXO 
+  OX     
+XOOOXOXX 
+   OX  O 
+X OXXOOX 
+X OOXOXO 
+  XOXXOO 
+  O   XXO
+X XXOO O 
+ O   X  O
+XXO OO OX
+X OOXOX X
+X X OO XO
+ XOXX OOX
+OXO   X  
+X OXOOOXX
+O   OXXO 
+  XO  XOX
+  O  O  X
+    XOO X
+ XOOOXXXO
+XX OO O X
+X X XOOXO
+ OX OX O 
+ O XO OXX
+OX XO XOX
+XOO      
+OOXX O  X
+XX XOXOOO
+OXOX O X 
+XXOOOO X 
+X  OXOO  
+O XOO  X 
+OXOOOXXXO
+O  OO  XX
+ XO X  XO
+O  OXOXXX
+OXO  XOXO
+XX  O  OX
+  O O XXX
+O  X XOO 
+XO  XOXOO
+  OX X O 
+  O  X  O
+X XOX O  
+XO  OX XO
+OOX XXOOX
+ X   O XO
+    O OXX
+ XO X   O
+ O OX O X
+XX OOXOOX
+XXXOOXOXO
+  O   XX 
+   OX OX 
+O  OXXX O
+O OX X X 
+X OX   OO
+X XOOOXOX
+X  XO O X
+ O XX O  
+ O X  OXO
+ X OOX   
+X X  OOO 
+OXOOO  XX
+O  O XXXO
+  XOX  OO
+ OXXOXOXO
+XXXOX O O
+OXO OX OX
+XO    XOX
+ XOOO XOX
+X OO X XO
+XOOOXXX  
+OXO OXXXO
+OO X XXXO
+ XXXXO OO
+X  OOX OX
+X O   O X
+    OX   
+OO  XXOX 
+OOXOXXX O
+O XX   OX
+OO XXOX O
+  O O  X 
+   OX XOO
+XX OXO OO
+ O  X  X 
+ O XX    
+ X  XOX O
+XOOXXOOXO
+ OXX O  X
+XO XX   O
+OX  XX  O
+O  O X   
+XX  XOOO 
+ O X XXOO
+XXO OOXO 
+XOOXXXOXO
+OX OOXXXO
+OXOOOXXX 
+   X  O  
+X  OXXOOO
+ OX OX XO
+ O OX  X 
+XOOO X XX
+ X O XO  
+ XXXOO  O
+XOOXX  XO
+OOO X  XX
+XOX  OX  
+O  X X O 
+  X  OO X
+   OXXO  
+ O OXOXXX
+  OX    X
+OXX XX OO
+X   X   O
+OXXOXOO X
+XXOOO X O
+X O   OX 
+  XOX OX 
+XX    O O
+O X O  XO
+XXXOO OXO
+ O X    X
+X XO O   
+  X OXO X
+   O  X  
+OX OXOXO 
+OX  X XO 
+X  O OXXO
+X   OOXX 
+OX  XO O 
+ OX OX   
+  OXOX XO
+XXOOO X  
+ O OXX  O
+XOX    XO
+ XOXX  OO
+XOXXOO  X
+X OX XXOO
+X OO     
+OO  X  XX
+O O X X X
+OOX  OXOX
+O   X XOO
+O X  O XO
+OO O X XX
+ XO  X O 
+ O X O XX
+  OOXO  X
+X   O   O
+XXXO   OO
+OXOXXOOOX
+  XO X  O
+XOOOX  XO
+ OXXOOX  
+ XOXO   O
+OXX OOX O
+ X O  OXX
+O X  O X 
+  O    X 
+OXO O  XX
+OXOO   X 
+ X X O OO
+ X  X OOX
+OXOX  OXO
+O XO OXOX
+ O XXOX  
+X X XOO O
+XOXXOO XO
+ OO XX OX
+ OO   XXO
+    OXXOX
+   OXX O 
+OX XOOX  
+   OO OXX
+O O  X X 
+OXXOXO  O
+  XOO    
+OXX XO  O
+ O XO X X
+XOX OXOXO
+  XX  O  
+O  X X   
+ O O O XX
+XOXXOXOOO
+XO  X  O 
+XX  XOOOX
+XX   O XO
+O X O X  
+XX  OO   
+XOX X XOO
+    X OX 
+ OOOXXX O
+OX X   XO
+X XOX XOO
+  X   OO 
+ O OX  XO
+OXOO XXXO
+XOXO O XO
+XXO   XO 
+OO OX OXX
+X     OOX
+XXO   O  
+    OX XO
+OOXXXOOOX
+  OXX OXO
+XX   OOX 
+ O  XXXO 
+XXO X   O
+OXX OOXOX
+X  OX OX 
+O  X XOOX
+OXOX XOOX
+OOXOXOXXX
+XO  X O  
+OXXOXOXO 
+XO   XOOX
+ O OOXX  
+OX XOO OX
+XX X OOOX
+  OOO X X
+ XO   O  
+ O  XX   
+X  XOOX O
+ O  X   O
+XOXOO X  
+XXOO XO X
+XX XOO OX
+ XOX    O
+ O  X   X
+ X  OX O 
+O  XXOO X
+ O XO  X 
+  OOX X  
+O OX XOX 
+OOXX  OXO
+  XX   OO
+O X  OXOX
+ OXX   XO
+X OOXXX O
+OOX OX XO
+  X   OOX
+ OOXOOX X
+ X XO XO 
+OXOXO X X
+OOXO X  X
+OXX   OOX
+XOX   O O
+X XO    O
+ OXOOX X 
+X O OX OX
+XOOXXOXOX
+XO  XXOO 
+  XOOXXOX
+  XX  O O
+ X OXO  O
+ O  X  O 
+X OX XOO 
+OO X   X 
+    X OXO
+ OXOXXOX 
+ XO XXXOO
+O O  XX  
+X OX  XOO
+ OXOXO  X
+XXOOO    
+  X  X OO
+X XXOXO O
+OXOOOXXOX
+OX O  XOX
+XOXOO OX 
+OX  XO X 
+OO XX OOX
+ O XXXOO 
+ OX   O  
+XX OOXOXO
+XOOOXOXXX
+X O OOXX 
+X X XOOO 
+OX   OO X
+X XXOXOOO
+OXOXOOXXX
+OO XX O  
+OXOO O XX
+O O   X X
+  XO   X 
+XO X XOO 
+   O XX O
+ O O X   
+XXO XO OX
+ X XO O O
+O   OXO X
+ OXXO  O 
+OXXX OO  
+  X  O X 
+ OOXOXOXX
+XXX O O  
+ OX X O O
+  O X X  
+OO X   XX
+   XO O  
+   X XOXO
+XX X  O O
+OXO XXXOO
+ O OXX X 
+OXOX XOXO
+XX X OOXO
+XXXXO OO 
+ X   O  O
+  OO  XX 
+OOX OOX X
+O    O X 
+ OXOXXO  
+   X   XO
+O X   XOX
+X X XOXOO
+X O  XX O
+OOXX XOXO
+XO XOO XO
+OO OXXOXX
+XOOX  XOX
+    O XX 
+O  O XXX 
+O  O XOXX
+XXO  OOOX
+X X O OO 
+O    X O 
+ X O     
+XXXO OOOX
+ XOOXO  X
+XOOX OOX 
+XO OXOXX 

@@ -1,0 +1,8 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(C:\learning\coursera\machine-learning\tictactoe\src\main\resources\allBoards-285.txt,C:\learning\coursera\machine-learning\tictactoe\target\scala-2.12\classes\allBoards-285.txt)[0m
+[0m[[0mdebug[0m] [0m	(C:\learning\coursera\machine-learning\tictactoe\src\main\resources\allBoards-672.txt,C:\learning\coursera\machine-learning\tictactoe\target\scala-2.12\classes\allBoards-672.txt)[0m
+[0m[[0mdebug[0m] [0m	(C:\learning\coursera\machine-learning\tictactoe\src\main\resources\allBoards-773.txt,C:\learning\coursera\machine-learning\tictactoe\target\scala-2.12\classes\allBoards-773.txt)[0m
+[0m[[0mdebug[0m] [0m	(C:\learning\coursera\machine-learning\tictactoe\src\main\resources\allBoards-RandomVsRandom.txt,C:\learning\coursera\machine-learning\tictactoe\target\scala-2.12\classes\allBoards-RandomVsRandom.txt)[0m
+[0m[[0mdebug[0m] [0m	(C:\learning\coursera\machine-learning\tictactoe\src\main\resources\allBoards-RandomVsUnbeatable.txt,C:\learning\coursera\machine-learning\tictactoe\target\scala-2.12\classes\allBoards-RandomVsUnbeatable.txt)[0m
+[0m[[0mdebug[0m] [0m	(C:\learning\coursera\machine-learning\tictactoe\src\main\resources\allBoards-test.txt,C:\learning\coursera\machine-learning\tictactoe\target\scala-2.12\classes\allBoards-test.txt)[0m
+[0m[[0mdebug[0m] [0m	(C:\learning\coursera\machine-learning\tictactoe\src\main\resources\allBoards-UnbeatableVsUnbeatable.txt,C:\learning\coursera\machine-learning\tictactoe\target\scala-2.12\classes\allBoards-UnbeatableVsUnbeatable.txt)[0m
